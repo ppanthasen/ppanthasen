@@ -23,21 +23,21 @@ I enjoy turning complex problems into working, maintainable software and am seek
 - **FetchBot: House Organizing Robot**  
   Developed a ROS2-based mobile robot with reinforcement learning for autonomous indoor navigation.
 
-- **Robot Data Collection Framework Using ROS and Gazebo**  
+- **[Robot Data Collection Framework Using ROS and Gazebo](https://github.com/cu-asl/robot_data_collection_framework)**  
   Built a ROS framework for simulating peg insertion and object manipulation with Cartesian compliance control.
 
 ### 🧠 Machine Learning, Deep Learning & Computer Vision
 
-- **RL4EVRPTW: Deep Reinforcement Learning for Electric Vehicle Routing**  
+- **[RL4EVRPTW: Deep Reinforcement Learning for Electric Vehicle Routing](https://github.com/s33zhong/RL4EVRPTW)**  
   Developed a hybrid reinforcement learning and optimization framework for routing with energy and time window constraints.
 
-- **Leveraging Synthetic Data for Data Protection (VAE-based)**  
+- **[Leveraging Synthetic Data for Data Protection (VAE-based)](https://github.com/ppanthasen/synthetic-data-tabular)**  
   Designed a privacy-preserving data generation pipeline using a modified variational autoencoder for tabular datasets.
 
-- **DataDAM: Dataset Distillation with Attention Matching**  
-  Proposed an attention-based strategy for dataset distillation to enhance training efficiency.
+- **[Dataset Distillation with Attention Matching](https://github.com/ppanthasen/ECE1512_2024F_ProjectA_Pas_Panthasen)**  
+  Reproduced and analyzed the DataDAM method for efficient dataset distillation using attention mechanisms.
 
-- **State Space & Vision-Language Models**  
+- **[State Space & Vision-Language Models](https://github.com/ppanthasen/ECE1512_2024F_ProjectB_Pas_Panthasen)**  
   Explored scalable architectures like Mamba and proposed optimizations to reduce computational bottlenecks in vision-language models.
 
 ### 🔬 Modeling & Simulation
@@ -55,8 +55,6 @@ I enjoy turning complex problems into working, maintainable software and am seek
 
 - **Object Detection for Recycling Bins (Arduino)**  
   Built and deployed a portable ultrasonic sensor system to detect nearby objects around public recycling bins.
-
----
 
 ## 📘 Coursework
 
