@@ -31,7 +31,7 @@ I enjoy turning complex problems into working, maintainable software and am seek
 - **[RL4EVRPTW: Deep Reinforcement Learning for Electric Vehicle Routing](https://github.com/s33zhong/RL4EVRPTW)**  
   Developed a hybrid reinforcement learning and optimization framework for routing with energy and time window constraints.
 
-- **[Leveraging Synthetic Data for Data Protection (VAE-based)](https://github.com/ppanthasen/synthetic-tabular-data)**  
+- **[Privacy-Preserving Synthetic Data Generation](https://github.com/ppanthasen/synthetic-tabular-data)**  
   Designed a privacy-preserving data generation pipeline using a modified variational autoencoder for tabular datasets.
 
 - **[Dataset Distillation with Attention Matching](https://github.com/ppanthasen/ECE1512_2024F_ProjectA_Pas_Panthasen)**  
