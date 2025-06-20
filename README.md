@@ -20,7 +20,7 @@ I enjoy turning complex problems into working, maintainable software and am seek
 
 ### 🤖 Robotics
 
-- **FetchBot: House Organizing Robot**  
+- **FetchBot: House Organizing Robot (repo in progress)**  
   Developed a ROS2-based mobile robot with reinforcement learning for autonomous indoor navigation.
 
 - **[Robot Data Collection Framework Using ROS and Gazebo](https://github.com/cu-asl/robot_data_collection_framework)**  
@@ -28,16 +28,16 @@ I enjoy turning complex problems into working, maintainable software and am seek
 
 ### 🧠 Machine Learning, Deep Learning & Computer Vision
 
-- **[RL4EVRPTW: Deep Reinforcement Learning for Electric Vehicle Routing](https://github.com/s33zhong/RL4EVRPTW)**  
-  Developed a hybrid reinforcement learning and optimization framework for routing with energy and time window constraints.
-
+- **[Hybrid Optimization & RL for EV Routing](https://github.com/ppanthasen/evrptw-rl/)**  
+  Developed a hybrid reinforcement learning and optimization framework for electric vehicle routing with energy and time window constraints.
+  
 - **[Privacy-Preserving Synthetic Data Generation](https://github.com/ppanthasen/synthetic-tabular-data)**  
   Designed a privacy-preserving data generation pipeline using a modified variational autoencoder for tabular datasets.
 
-- **[Dataset Distillation with Attention Matching](https://github.com/ppanthasen/ECE1512_2024F_ProjectA_Pas_Panthasen)**  
-  Reproduced and analyzed the DataDAM method for efficient dataset distillation using attention mechanisms.
+- **[Dataset Distillation for Efficient ML Training](https://github.com/ppanthasen/efficient-dataset-distillation)**  
+  Reproduced and analyzed the DataDAM and PAD method for efficient dataset distillation using attention mechanisms.
 
-- **[State Space & Vision-Language Models](https://github.com/ppanthasen/ECE1512_2024F_ProjectB_Pas_Panthasen)**  
+- **[State Space & Vision-Language Models (repo in progress)](https://github.com/ppanthasen/ECE1512_2024F_ProjectB_Pas_Panthasen)**   
   Explored scalable architectures like Mamba and proposed optimizations to reduce computational bottlenecks in vision-language models.
 
 ### 🔬 Modeling & Simulation
