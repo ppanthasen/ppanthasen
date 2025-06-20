@@ -87,7 +87,7 @@ I enjoy turning complex problems into working, maintainable software and am seek
 
 <!-- - [📄 Resume (PDF)](https://yourwebsite.com/resume.pdf) -->
 
-- [🔗 LinkedIn](https://linkedin.com/in/pas-panthasen/)
+- 🔗 [LinkedIn](https://linkedin.com/in/pas-panthasen/)
 - ✉️ Email: pas.panthasen@gmail.com
 <!-- - 🌐 Portfolio (optional): [https://yourportfolio.com](https://yourportfolio.com) -->
 
