@@ -20,8 +20,8 @@ I enjoy turning complex problems into working, maintainable software and am seek
 
 ### 🤖 Robotics
 
-- **FetchBot: House Organizing Robot (repo in progress)**  
-  Developed a ROS2-based mobile robot with reinforcement learning for autonomous indoor navigation.
+- **[Autonomous House-Organizing Robot (repo in progress)](https://github.com/ppanthasen/auto-nav-ros2/)**  
+  Hybrid navigation system combining classical planning and DDPG policy for autonomous exploration in simulated indoor environments.
 
 - **[Robot Data Collection Framework Using ROS and Gazebo](https://github.com/cu-asl/robot_data_collection_framework)**  
   Built a ROS framework for simulating peg insertion and object manipulation with Cartesian compliance control.
